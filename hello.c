@@ -10,7 +10,9 @@
 
 int main() {
 
-  printf("Henry Monahan");
+  printf("Henry Monahan\n");
+  printf("Luke Walker\n")
+  printf("My major is Electrical Engineering.\n")
 
   return 0;
 }
